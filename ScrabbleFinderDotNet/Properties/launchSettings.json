@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ScrabbleFinderDotNet": {
+      "commandName": "Project",
+      "commandLineArgs": "ardvark"
+    }
+  }
+}
